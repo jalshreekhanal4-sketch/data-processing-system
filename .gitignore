@@ -1,0 +1,11 @@
+# Java
+java/out/
+java/results.txt
+*.class
+
+# Go
+go/dps
+go/results.txt
+
+# OS
+.DS_Store
